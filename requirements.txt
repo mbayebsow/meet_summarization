@@ -1,0 +1,10 @@
+openai
+numpy
+scipy
+pygame
+markdown2
+tkhtmlview
+plyer
+gradio_client
+sounddevice
+customtkinter
